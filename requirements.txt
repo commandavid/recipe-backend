@@ -1,7 +1,7 @@
 fastapi
 uvicorn
 yt-dlp
-pydub
+pydub==0.25.1
 openai
 ffmpeg-python
 python-multipart
